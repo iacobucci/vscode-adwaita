@@ -11,7 +11,7 @@ Extra theme variants are included for those who prefer a colorful status bar and
 
 ## Installation
 
-Get it on [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=piousdeer.adwaita-theme) or [Open VSX](https://open-vsx.org/extension/piousdeer/adwaita-theme).
+Build manually from `src/build.py` and link to `.vscode/extensions/adwaita-fork` or something.
 
 ## Suggested settings
 
