@@ -43,5 +43,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 <hr>
 
 This project is not affiliated with GNOME Foundation.
-
-[<img src="https://img.shields.io/badge/donate-crypto-yellow">](https://pious.dev/donate)
