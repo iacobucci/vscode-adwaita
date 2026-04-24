@@ -6,8 +6,7 @@ Dark and light themes based on GNOME's new Adwaita look and GNOME Builder's synt
 
 Extra theme variants are included for those who prefer a colorful status bar and/or default syntax highlighting:
 
-![Screenshot showing the dark theme with a colorful status bar and default syntax highlighting](assets/screenshot_extra.png)<br>
-<small><center>Fonts shown: JetBrains Mono, SF Pro Text.</center></small>
+![Screenshot showing the dark theme with a colorful status bar and default syntax highlighting](assets/screenshot_extra.png)
 
 ## Installation
 
