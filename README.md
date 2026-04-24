@@ -40,6 +40,4 @@ Open the Command Palette and find "Open Settings (JSON)". Here are the recommend
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-<hr>
-
 This project is not affiliated with GNOME Foundation.
